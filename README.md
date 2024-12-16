@@ -32,4 +32,4 @@ Planned improvements include integrating additional data sources, refining the p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RicePrediction.git
+   git clone git@github.com:chanopsethiwan/RicePricePrediction.git
